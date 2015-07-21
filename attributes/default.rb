@@ -26,5 +26,5 @@ default['subversion']['password'] = 'subversion'
 default['subversion']['list_parent_path'] = 'off'
 
 # For Windows
-default['subversion']['msi_source'] = 'http://downloads.sourceforge.net/project/win32svn/1.7.0/Setup-Subversion-1.7.0.msi'
+default['subversion']['msi_source'] = 'http://downloads.sourceforge.net/project/win32svn/files/1.7.0/Setup-Subversion-1.7.0.msi'
 default['subversion']['msi_checksum'] = '2ee93a3a2c1f9b720917263295466f92cac6058c6cd8af65592186235cf0ed71'
